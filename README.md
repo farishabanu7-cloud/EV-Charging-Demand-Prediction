@@ -56,16 +56,16 @@ Predicts a numerical EV charging demand value.
 
 ## 📸 Dashboard Screenshots
 
-# Project Overview
+## Project Overview
 <img width="959" height="433" alt="image" src="https://github.com/user-attachments/assets/ff9db907-51d1-4a8a-a90a-931b673ecf5b" />
 
-# Classification Model Performance
+## Classification Model Performance
 <img width="959" height="433" alt="image" src="https://github.com/user-attachments/assets/8e0af377-53d3-45ec-861a-3a0242b0981b" />
 
-# Regression Model Performance
+## Regression Model Performance
 <img width="959" height="434" alt="image" src="https://github.com/user-attachments/assets/f7aae7a5-685e-4d16-9ae0-20df6a4b764c" />
 
-# EV Charging Demand Prediction
+## EV Charging Demand Prediction
 <img width="956" height="434" alt="image" src="https://github.com/user-attachments/assets/716f0f4e-7532-4b48-b2f2-182d43608377" />
 
 ## 🎯 Project Objective
