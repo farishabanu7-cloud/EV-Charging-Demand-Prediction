@@ -53,35 +53,20 @@ Predicts a numerical EV charging demand value.
 * `ev_charging_regression_feature_columns.pkl` – Regression model feature columns
 * `requirements.txt` – Required Python libraries
 
-## 🚀 How to Run the Project
-
-**Step 1: Clone the repository**
-
-```bash
-git clone https://github.com/farishabanu7-cloud/EV-Charging-Demand-Prediction.git
-```
-
-**Step 2: Navigate to the project folder**
-
-```bash
-cd EV-Charging-Demand-Prediction
-```
-
-**Step 3: Install dependencies**
-
-```bash
-pip install -r requirements.txt
-```
-
-**Step 4: Run the Streamlit dashboard**
-
-```bash
-streamlit run app.py
-```
 
 ## 📸 Dashboard Screenshots
 
-Screenshots of the interactive EV Charging Demand Prediction Dashboard will be added here.
+Project Overview
+<img width="959" height="433" alt="image" src="https://github.com/user-attachments/assets/ff9db907-51d1-4a8a-a90a-931b673ecf5b" />
+
+Classification Model Performance
+<img width="959" height="433" alt="image" src="https://github.com/user-attachments/assets/8e0af377-53d3-45ec-861a-3a0242b0981b" />
+
+Regression Model Performance
+<img width="959" height="434" alt="image" src="https://github.com/user-attachments/assets/f7aae7a5-685e-4d16-9ae0-20df6a4b764c" />
+
+EV Charging Demand Prediction
+<img width="956" height="434" alt="image" src="https://github.com/user-attachments/assets/716f0f4e-7532-4b48-b2f2-182d43608377" />
 
 ## 🎯 Project Objective
 
